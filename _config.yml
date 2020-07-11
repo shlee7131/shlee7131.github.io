@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arch_It World
+title: Arch-IT World
 name: Seok-Hyun Lee
-description: Welcome to Arch_IT World
+description: Welcome to Arch-IT World
 baseurl: "https://shlee7131.github.io/" # the subpath of your site, e.g. /blog
 github_username: shlee7131
 
