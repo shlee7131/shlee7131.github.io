@@ -16,7 +16,7 @@
 title: Arch_It World
 name: Seok-Hyun Lee
 description: Welcome to Arch_IT World
-baseurl: "shlee7131.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://shlee7131.github.io/" # the subpath of your site, e.g. /blog
 github_username: shlee7131
 
 # jekyll-paginate configuration
@@ -35,6 +35,6 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: http://www.linkedin.com/in/alainpham
+author: https://github.com/shlee7131
 
 host: 0.0.0.0
